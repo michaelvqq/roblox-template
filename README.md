@@ -2,6 +2,14 @@
 
 Roblox project starter. Includes full toolchain, all packages, and src skeleton.
 
+## New project
+
+```bash
+gh repo create my-new-game --template Snxw/roblox-template --private --clone
+cd my-new-game
+rokit install && lune run refresh
+```
+
 ## Setup
 
 1. `rokit install`
