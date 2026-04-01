@@ -1,0 +1,2 @@
+--!strict
+-- Mount your root Vide component here

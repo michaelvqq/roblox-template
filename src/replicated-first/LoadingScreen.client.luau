@@ -1,0 +1,2 @@
+--!strict
+-- Loading screen logic here

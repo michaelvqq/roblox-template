@@ -1,0 +1,22 @@
+[package]
+name = "author/project"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+ProfileStore = "vyon/profilestore@1.0.3"
+Observers = "sleitnick/observers@0.4.0"
+Trove = "sleitnick/trove@1.8.0"
+FastCast = "megamonsta2/fastcast@1.0.0"
+Signal = "sleitnick/signal@2.0.3"
+ByteNet = "ffrostflame/bytenet@0.4.6"
+Vide = "centau/vide@0.3.1"
+PartCache = "4igz/partcache@1.0.1"
+CameraShaker = "encrxyptedethan/camerashaker@1.0.0"
+UI-Labs = "pepeeltoro41/ui-labs@2.4.2"
+Replica = "stargamesstudio/replica@0.2.0"
+Cmdr = "evaera/cmdr@1.12.0"
+QuickZone = "ldgerrits/quickzone@1.0.0"
+RoQuest = "prooheckcp/roquest@0.1.6"
+BTrees = "onv-il/btreesv5@5.0.18"
