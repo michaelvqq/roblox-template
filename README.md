@@ -22,4 +22,3 @@ Roblox project starter. Includes full toolchain, all packages, and src skeleton.
 - `wally.toml` — update `[package] name` to your project
 - `default.project.json` — update `"name"` to your project name
 - `src/server/SETTINGS.luau` — update `DATASTORE_NAME` to a new unique key
-- GitHub: Settings → check **Template repository**
