@@ -1,2 +1,2 @@
 --!strict
--- Mount your root Vide component here
+-- Mount your root React component here
